@@ -1,6 +1,8 @@
-### study-of-basic-gates
+***NAME: JAYAPRADAN M***
+***REG NO:24900886*** 
+***EXPERIMENT 1 NAME: STUDY OF BASICS GATES***
 
-**AIM:** 
+***AIM:**
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
 
@@ -64,16 +66,18 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+![WhatsApp Image 2024-11-06 at 21 53 59_0f463254](https://github.com/user-attachments/assets/75b9636e-da92-45ed-9b66-81d2d61fc501)
 
- Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
 
 **RTL realization Output:** 
+![WhatsApp Image 2024-11-06 at 11 53 50_53455d3e](https://github.com/user-attachments/assets/dcb0fa12-ae95-4f6e-a1e2-fff9662d6ec2)
 
-**RTL**
+**TimingDiagram**
+![WhatsApp Image 2024-11-06 at 21 54 03_2b1a12ed](https://github.com/user-attachments/assets/d7e9e67b-01bf-48db-a7c2-8a8fcc07ca70)
+
 
 **Result:**
-
+To study and verify the truth table of logic gates in Quartus II using Verilog programming successfully.
 
