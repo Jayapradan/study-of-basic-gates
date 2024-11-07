@@ -70,6 +70,7 @@ Y= A⊕B
 
  
 **Logic symbol & Truthtable**
+![WhatsApp Image 2024-11-07 at 11 05 03_889b234e](https://github.com/user-attachments/assets/d58777ef-4a4a-422c-881d-38c908a38aec)
 
 **RTL realization Output:** 
 ![WhatsApp Image 2024-11-06 at 11 53 50_53455d3e](https://github.com/user-attachments/assets/dcb0fa12-ae95-4f6e-a1e2-fff9662d6ec2)
